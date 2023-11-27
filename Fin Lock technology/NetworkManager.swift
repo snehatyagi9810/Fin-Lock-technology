@@ -16,8 +16,11 @@ class NetworkManager {
             print("function")
         }
         let url = URL(string: "https://countriesnow.space/api/v0.1/countries")
-        URLSession.shared.dataTask(with: url!) {data,response, error in
-            
+        URLSession.shared.dataTask(with: url!) { data,response,error in 
+        
+//        let url = URL(string: "https://countriesnow.space/api/v0.1/countries")
+//        URLSession.shared.dataTask(with: url!) {data,response, error in
+//            
             if let  error{
                 print (error.localizedDescription)
                 return

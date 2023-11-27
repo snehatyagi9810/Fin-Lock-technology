@@ -15,6 +15,7 @@
 		205CAADB2ADC405B0093E1D4 /* CitiesTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 205CAADA2ADC405B0093E1D4 /* CitiesTableViewController.swift */; };
 		20D47D482ADC03A10060B967 /* DataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D47D472ADC03A10060B967 /* DataModel.swift */; };
 		20D47D4A2ADC03FC0060B967 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D47D492ADC03FC0060B967 /* NetworkManager.swift */; };
+		20F1C2782B13538700982B17 /* Custom Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20F1C2772B13538700982B17 /* Custom Cell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		205CAADA2ADC405B0093E1D4 /* CitiesTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CitiesTableViewController.swift; sourceTree = "<group>"; };
 		20D47D472ADC03A10060B967 /* DataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataModel.swift; sourceTree = "<group>"; };
 		20D47D492ADC03FC0060B967 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
+		20F1C2772B13538700982B17 /* Custom Cell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Custom Cell.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				2058285D2ADBC20C00FBB3AD /* SceneDelegate.swift */,
 				2058285F2ADBC20C00FBB3AD /* ViewController.swift */,
 				205CAADA2ADC405B0093E1D4 /* CitiesTableViewController.swift */,
+				20F1C2772B13538700982B17 /* Custom Cell.swift */,
 				20D47D492ADC03FC0060B967 /* NetworkManager.swift */,
 				20D47D472ADC03A10060B967 /* DataModel.swift */,
 				205828642ADBC20D00FBB3AD /* Assets.xcassets */,
@@ -149,6 +152,7 @@
 				2058285C2ADBC20C00FBB3AD /* AppDelegate.swift in Sources */,
 				205CAADB2ADC405B0093E1D4 /* CitiesTableViewController.swift in Sources */,
 				2058285E2ADBC20C00FBB3AD /* SceneDelegate.swift in Sources */,
+				20F1C2782B13538700982B17 /* Custom Cell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
